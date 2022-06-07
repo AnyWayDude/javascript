@@ -1,3 +1,4 @@
+
 import { callApi } from '../helpers/apiHelper';
 
 class FighterService {
